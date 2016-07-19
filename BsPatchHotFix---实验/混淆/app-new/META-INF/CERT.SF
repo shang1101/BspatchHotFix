@@ -1,0 +1,40 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: PIXZMzOrwcxoxIa3sXLEy3VDHjE=
+
+Name: lib/armeabi/gdbserver
+SHA1-Digest: cZVk4hYQ53MzdEJ6Rd2Gr2NWUrM=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: iLOKwoF385humB5kq5Bq46YZBTo=
+
+Name: AndroidManifest.xml
+SHA1-Digest: SHwqdn1apGuRx+IAmYmWPOrFbbs=
+
+Name: lib/armeabi/libbspatch.so
+SHA1-Digest: UT5mHiQ2XmJFxylbPheNGYiObaI=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: 7rQl6EYeTTp31EHiQqxTWNvHumI=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: eAe4aQ3DNPRP6pSEW0HgZPPU5nE=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: he0u+MMYOPtjL0qaRCkw275Ntw0=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: w8zlhwlle2aoufXsl5l6tyaB0OQ=
+
+Name: lib/armeabi/gdb.setup
+SHA1-Digest: mZ7x7ewMA4gHzR73teXAgKqAIq8=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: +a3yVQj6TCfQK0TeFlDzM97BHZs=
+
+Name: resources.arsc
+SHA1-Digest: 2koyo1q1BrNvh69+2jQH/Bs/DQg=
+
+Name: classes.dex
+SHA1-Digest: 7Q/RecWJSZXqRe5Xhv2NFH83Nlo=
+

@@ -1,0 +1,2 @@
+set solib-search-path E:\Learning\BspatchHotFix\app\build\intermediates\ndk\debug\obj/local/armeabi
+directory D:/android-ndk-r11c/build//../platforms/android-19/arch-arm/usr/include E:\Learning\BspatchHotFix\app\src\main\jni E:\Learning\BspatchHotFix\app\src\debug\jni E:/Learning/BspatchHotFix/app/build/intermediates/ndk/debug D:/android-ndk-r11c/build//../sources/cxx-stl/system
